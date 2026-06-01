@@ -9,8 +9,6 @@ import com.tss.enumm.GameStatus;
 import com.tss.exception.CellOccupiedException;
 import com.tss.exception.InvalidPositionException;
 
-import javax.security.auth.login.CredentialException;
-
 public class GameService
 {
     public void startGame(Game game, Scanner scanner)
