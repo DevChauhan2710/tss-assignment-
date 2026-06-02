@@ -20,8 +20,4 @@ public class Player
     public String getNameOfPlayer() {
         return nameOfPlayer;
     }
-
-    public MarkType getMarkType() {
-        return markType;
-    }
 }
